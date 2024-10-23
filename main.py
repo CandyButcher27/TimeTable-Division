@@ -1,15 +1,26 @@
-import PyPDF2
+import pdfplumber
 
 file_path = "C:/Users/sriva/Desktop/TTD/TimeTable-Division/TT CHANGES - 5.pdf"
 
-with open(file_path,'rb') as file:
-    reader = PyPDF2.PdfReader(file)
+table_data = []
 
-    pdf_text = ""
+with pdfplumber.open(file_path) as pdf :
 
-    for page_num in range(len(reader.pages)):
-        page = reader.pages[page_num]
+    for page_num in range(len(pdf.pages)):
+        page = pdf.pages[page_num]
+        tables = page.extract_tables()
 
-        pdf_text+=page.extract_text()
+        for table in tables : 
+            if(page_num==0):
+                headers = table[0]
+            for row in table[1:]:
+               for i in range(len(headers)):
+                   row_data = {headers[i]:row[i]}
+                   table_data.append(row_data)
 
-        print(pdf_text)
+    print(table_data)
+    
+
+        
+        
+    

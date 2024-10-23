@@ -1,3 +1,6 @@
 # TimeTable Division Induction Task
 
-The task requires us to parse a pdf into json format
+Parse a given PDF file to json format
+
+
+
