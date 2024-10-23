@@ -1,178 +1,178 @@
 [
     {
-        "SlNo": "1)",
+        "SlNo": "1",
         "Course No": "CS F111",
-        "Course Title": "COMPUTER\nPROGRAMMING",
+        "Course Title": "COMPUTERPROGRAMMING",
         "Section No": "P7",
-        "Existing": "Paresh Saxena\nSadeep Ravikanti",
-        "New": "Paresh Saxena\nS Shashank"
+        "Existing": "Paresh SaxenaSadeep Ravikanti",
+        "New": "Paresh SaxenaS Shashank"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "1",
+        "Course No": "CS F111",
+        "Course Title": "COMPUTERPROGRAMMING",
         "Section No": "P8",
-        "Existing": "Paresh Saxena\nSadeep Ravikanti",
-        "New": "Paresh Saxena\nS Shashank"
+        "Existing": "Paresh SaxenaSadeep Ravikanti",
+        "New": "Paresh SaxenaS Shashank"
     },
     {
-        "SlNo": "2)",
+        "SlNo": "2",
         "Course No": "CS F213",
-        "Course Title": "OBJECT ORIENTED\nPROG",
+        "Course Title": "OBJECT ORIENTEDPROG",
         "Section No": "P3",
-        "Existing": "Abhijit Das\nSadeep Ravikanti",
-        "New": "Abhijit Das\nChaitra C R"
+        "Existing": "Abhijit DasSadeep Ravikanti",
+        "New": "Abhijit DasChaitra C R"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "2",
+        "Course No": "CS F213",
+        "Course Title": "OBJECT ORIENTEDPROG",
         "Section No": "P4",
-        "Existing": "Abhijit Das\nSadeep Ravikanti",
-        "New": "Abhijit Das\nSita Rasagna\nVakkalanka"
+        "Existing": "Abhijit DasSadeep Ravikanti",
+        "New": "Abhijit DasSita RasagnaVakkalanka"
     },
     {
-        "SlNo": "3)",
+        "SlNo": "3",
         "Course No": "BITS F452",
-        "Course Title": "Blockchain\nTechnology",
+        "Course Title": "BlockchainTechnology",
         "Section No": "L1",
-        "Existing": "JAY KAMLESH DAVE\nAsmita Biswas\nChaitra C R\nS Rasagna Vakkalanka",
-        "New": "JAY KAMLESH DAVE\nAsmita Biswas"
+        "Existing": "JAY KAMLESH DAVEAsmita BiswasChaitra C RS Rasagna Vakkalanka",
+        "New": "JAY KAMLESH DAVEAsmita Biswas"
     },
     {
-        "SlNo": "4)",
+        "SlNo": "4",
         "Course No": "CS F317",
-        "Course Title": "Reinforcement\nLearning",
+        "Course Title": "ReinforcementLearning",
         "Section No": "L1",
-        "Existing": "PARESH SAXENA\nS Shashank",
+        "Existing": "PARESH SAXENAS Shashank",
         "New": "PARESH SAXENA"
     },
     {
-        "SlNo": "5)",
+        "SlNo": "5",
         "Course No": "BITS F232",
-        "Course Title": "Foundations of Data\nStructures and\nAlgorithms",
+        "Course Title": "Foundations of DataStructures andAlgorithms",
         "Section No": "P1",
-        "Existing": "Chittaranjan Hota\nAshish Kumar\nKumawat",
-        "New": "Barsha Mitra\nAshish Kumar\nKumawat"
+        "Existing": "Chittaranjan HotaAshish KumarKumawat",
+        "New": "Barsha MitraAshish KumarKumawat"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "5",
+        "Course No": "BITS F232",
+        "Course Title": "Foundations of DataStructures andAlgorithms",
         "Section No": "P2",
-        "Existing": "Chittaranjan Hota\nAshish Kumar\nKumawat",
-        "New": "Apurba Das\nAshish Kumar\nKumawat"
+        "Existing": "Chittaranjan HotaAshish KumarKumawat",
+        "New": "Apurba DasAshish KumarKumawat"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "5",
+        "Course No": "BITS F232",
+        "Course Title": "Foundations of DataStructures andAlgorithms",
         "Section No": "P3",
-        "Existing": "Barsha Mitra\nAlekhya gorrela",
-        "New": "Apurba Das\nAlekhya gorrela"
+        "Existing": "Barsha MitraAlekhya gorrela",
+        "New": "Apurba DasAlekhya gorrela"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "5",
+        "Course No": "BITS F232",
+        "Course Title": "Foundations of DataStructures andAlgorithms",
         "Section No": "P4",
         "Existing": "Barsha Mitra",
-        "New": "Barsha Mitra\nAlekhya gorrela"
+        "New": "Barsha MitraAlekhya gorrela"
     },
     {
-        "SlNo": "6)",
+        "SlNo": "6",
         "Course No": "CS F342",
-        "Course Title": "COMPUTER\nARCHITECTURE",
+        "Course Title": "COMPUTERARCHITECTURE",
         "Section No": "T 3",
         "Existing": "Tamoghna Ojha",
-        "New": "Rajib Ranjan Maiti\n(Merged with T1)"
+        "New": "Rajib Ranjan Maiti(Merged with T1)"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "6",
+        "Course No": "CS F342",
+        "Course Title": "COMPUTERARCHITECTURE",
         "Section No": "T4",
         "Existing": "Tamoghna Ojha",
-        "New": "Rajib Ranjan Maiti\n(Merged with T2)"
+        "New": "Rajib Ranjan Maiti(Merged with T2)"
     },
     {
-        "SlNo": "7)",
+        "SlNo": "7",
         "Course No": "CS F222",
-        "Course Title": "DISCR STRUC FOR\nCOMP SCI",
+        "Course Title": "DISCR STRUC FORCOMP SCI",
         "Section No": "T3",
-        "Existing": "Jaldu Krishna\nMaitreya",
+        "Existing": "Jaldu KrishnaMaitreya",
         "New": "N L Bhanu Murthy"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "7",
+        "Course No": "CS F222",
+        "Course Title": "DISCR STRUC FORCOMP SCI",
         "Section No": "T4",
-        "Existing": "Jaldu Krishna\nMaitreya\nApurba Das",
-        "New": "N L Bhanu Murthy\nJaldu Krishna\nMaitreya\n(Merged with T2)"
+        "Existing": "Jaldu KrishnaMaitreyaApurba Das",
+        "New": "N L Bhanu MurthyJaldu KrishnaMaitreya(Merged with T2)"
     },
     {
-        "SlNo": "8)",
+        "SlNo": "8",
         "Course No": "CS G623",
-        "Course Title": "ADVANCED OPERAT\nSYSTEMS",
+        "Course Title": "ADVANCED OPERATSYSTEMS",
         "Section No": "L1",
         "Existing": "Tamoghna Ojha",
         "New": "Chittaranjan Hota"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "8",
+        "Course No": "CS G623",
+        "Course Title": "ADVANCED OPERATSYSTEMS",
         "Section No": "P1",
         "Existing": "Tamoghna Ojha",
-        "New": "Chittaranjan Hota\nSheera Bose"
+        "New": "Chittaranjan HotaSheera Bose"
     },
     {
-        "SlNo": "9)",
+        "SlNo": "9",
         "Course No": "CS F301",
-        "Course Title": "PRINCIPLES OF PROGG\nLANG",
+        "Course Title": "PRINCIPLES OF PROGGLANG",
         "Section No": "T3",
-        "Existing": "R Gururaj\nShreea Bose",
+        "Existing": "R GururajShreea Bose",
         "New": "R Gururaj"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "9",
+        "Course No": "CS F301",
+        "Course Title": "PRINCIPLES OF PROGGLANG",
         "Section No": "T4",
-        "Existing": "R Gururaj\nShreea Bose",
+        "Existing": "R GururajShreea Bose",
         "New": "R Gururaj"
     },
     {
-        "SlNo": "10)",
+        "SlNo": "10",
         "Course No": "MATH F111",
         "Course Title": "MATHEMATICS I",
         "Section No": "T10",
-        "Existing": "Purohit Nisarg\nBharatbhi",
-        "New": "Purohit Nisarg\nBharatbhi\nSunil Rampuria"
+        "Existing": "Purohit NisargBharatbhi",
+        "New": "Purohit NisargBharatbhiSunil Rampuria"
     },
     {
-        "SlNo": "",
-        "Course No": "",
-        "Course Title": "",
+        "SlNo": "10",
+        "Course No": "MATH F111",
+        "Course Title": "MATHEMATICS I",
         "Section No": "T20",
         "Existing": "Dhrubajyoti Sarkar",
-        "New": "Dhrubajyoti Sarkar\nAnshid Aboobacker"
+        "New": "Dhrubajyoti SarkarAnshid Aboobacker"
     },
     {
-        "SlNo": "11)",
+        "SlNo": "11",
         "Course No": "CS F320",
-        "Course Title": "Foundations of Data\nScience",
+        "Course Title": "Foundations of DataScience",
         "Section No": "L1",
-        "Existing": "NL BHANUMURTHY\nHarsha Varun Marisetty\nP. Priyanka Chowdary",
-        "New": "NL BHANUMURTHY\nP. Priyanka Chowdary\nGorrela Alekhya"
+        "Existing": "NL BHANUMURTHYHarsha Varun MarisettyP. Priyanka Chowdary",
+        "New": "NL BHANUMURTHYP. Priyanka ChowdaryGorrela Alekhya"
     },
     {
-        "SlNo": "12)",
+        "SlNo": "12",
         "Course No": "BITS F464",
         "Course Title": "MACHINE LEARNING",
         "Section No": "L1",
-        "Existing": "Chittaranjan Hota\nMekala Kiran\nN R Rashmi\nSoriful Momin Nazrul\nHaque",
-        "New": "CHITTARANJAN HOTA\nMekala Kiran\nHarsha Varun Mariseeti\nSoriful Momin Nazrul\nHaque"
+        "Existing": "Chittaranjan HotaMekala KiranN R RashmiSoriful Momin NazrulHaque",
+        "New": "CHITTARANJAN HOTAMekala KiranHarsha Varun MariseetiSoriful Momin NazrulHaque"
     }
 ]
